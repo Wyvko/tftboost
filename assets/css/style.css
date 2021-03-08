@@ -1,0 +1,582 @@
+@media only screen and (min-width: 961px) and (max-width: 1024px) {
+  .logo-div {
+    width: 100%;
+    margin: 5px 0px 0px;
+  }
+
+  .question-text {
+    margin: 100px 0px 0px;
+  }
+
+  .question-text h2 {
+    font-size: 37px;
+  }
+
+  .menu li a {
+    padding: 14px 16px 13px;
+  }
+
+  .header-discord1 a {
+    padding: 16px 4px;
+  }
+
+  .social-footer ul li {
+    margin: 0px 12px;
+  }
+
+  .review-star i {
+    font-size: 20px;
+  }
+
+  .chkbox-desire label {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+  .logo-div {
+    width: 100%;
+    margin: 12px 0px 0px;
+  }
+
+  .home-text-inner p {
+    font-size: 20px;
+  }
+
+  .home-text-inner1 p {
+    font-size: 20px;
+  }
+
+  .question-text {
+    margin: 50px 0px 0px;
+  }
+
+  .question-text h2 {
+    font-size: 26px;
+  }
+
+  .question-text p {
+    font-size: 15px;
+  }
+
+  .frequent-butt {
+    padding: 8px 12px;
+  }
+
+  .social-footer ul li i {
+    font-size: 22px;
+  }
+
+  .social-footer ul li {
+    margin: 0px 8px;
+  }
+
+  .menu li a {
+    padding: 14px 16px;
+  }
+
+  .responsive-menu {
+    width: 30px;
+    background: #000;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 50%;
+    height: 30px;
+    line-height: 30px;
+    padding: 0px;
+  }
+
+  .header-menu {
+    margin-bottom: 0px;
+    margin-top: 15px;
+  }
+
+  .header-discord1 a {
+    font-size: 13px;
+  }
+
+  .header-discord a {
+    font-size: 15px;
+  }
+
+  .home-text img {
+    display: none;
+  }
+
+  #live-chat-div img {
+    display: none;
+  }
+
+  .home-text-new img {
+    display: none;
+  }
+
+  .question-section img {
+    display: none;
+  }
+
+  #live-chat-div {
+    padding: 30px 0px;
+  }
+
+  .home-text-inner2 {
+    margin: 35px 0px 20px;
+  }
+
+  .review-star i {
+    font-size: 12px;
+  }
+
+  .r-tabs .r-tabs-nav .r-tabs-anchor {
+    padding: 13px 33px;
+  }
+
+  .chkbox-desire label {
+    font-size: 12px;
+  }
+
+  .desire-head h5 {
+    font-size: 16px;
+  }
+
+  .slidecontainer p span {
+    font-size: 100px;
+  }
+
+  .question-text {
+    width: 100%;
+  }
+
+  .form-bossting form {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  .question-section .container-fluid {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .logo-div {
+    text-align: center;
+  }
+
+  .logo-div img {
+    width: 160px;
+    float: none;
+  }
+
+  .header-discord a {
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 100%;
+    margin: 10px 0px 0px;
+    text-align: center;
+    font-weight: 400;
+    background: #000;
+  }
+
+  .header-discord a:hover {
+    transform: scale(1);
+    background: #55595c;
+  }
+
+  .header-discord1 a {
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 100%;
+    margin: 10px 0px 0px;
+    text-align: center;
+    font-weight: 400;
+    background: #000;
+  }
+
+  .header-discord1 a:hover {
+    transform: scale(1);
+    background: #55595c;
+  }
+
+  .responsive-menu {
+    width: 30px;
+    background: #000;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 50%;
+    height: 30px;
+    line-height: 30px;
+    padding: 0px;
+  }
+
+  .header-menu {
+    margin-bottom: 8px;
+  }
+
+  header.sticky {
+    margin-top: 0px;
+    position: relative;
+  }
+
+  .banner-text h1 {
+    font-size: 15px;
+  }
+
+  .banner-text h5 {
+    padding: 0px 30px;
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .banner-butt a {
+    margin: 10px 15px;
+  }
+
+  .banner-butt {
+    margin: 40px 0px 0px;
+  }
+
+  .container {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .live-text {
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .arrow-div {
+    display: none;
+  }
+
+  .easy-follow-main-div {
+    width: 100%;
+    margin: 25px 0px;
+  }
+
+  .home-text-inner2 h2 {
+    font-size: 30px;
+  }
+
+  .timer-main {
+    margin: 0px 0px 30px;
+  }
+
+  .question-text {
+    margin: 70px 0px 0px;
+  }
+
+  .footer-2 {
+    margin: 25px 0px;
+  }
+
+  .header-menu nav ul li a {
+    background: #0c0c0c;
+  }
+
+  .banner-text h2 {
+    font-size: 15px;
+  }
+
+  .home-text img {
+    display: none;
+  }
+
+  #live-chat-div img {
+    display: none;
+  }
+
+  .home-text-new img {
+    display: none;
+  }
+
+  .question-section img {
+    display: none;
+  }
+
+  #live-chat-div {
+    padding: 10px 0px 25px;
+  }
+
+  .home-text-inner1 {
+    margin: 25px 0px 20px;
+  }
+
+  .home-text-inner2 {
+    margin: 15px 0px 20px;
+  }
+
+  .review-logo img {
+    float: none;
+  }
+
+  .review-text {
+    margin: 45px 0px;
+    display: block;
+    text-align: center;
+  }
+
+  .review-star {
+    display: none;
+  }
+
+  .join-div h2 {
+    width: 100%;
+  }
+
+  .chkbox-desire label {
+    float: left;
+    font-size: 12px;
+  }
+
+  .question-text {
+    width: 100%;
+  }
+
+  .desire-order-main {
+    width: 100%;
+    margin: 20px 0px 0px;
+    padding: 20px 0px 0px 0px;
+    border-top: 1px solid #d4d4d4;
+    border-left: none;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+  .question-section .container-fluid {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .logo-div {
+    text-align: center;
+  }
+
+  .logo-div img {
+    width: 120px;
+    float: none;
+  }
+
+  .header-discord a {
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 100%;
+    margin: 10px 0px 0px;
+    text-align: center;
+    font-weight: 400;
+    background: #000;
+  }
+
+  .header-discord a:hover {
+    transform: scale(1);
+    background: #55595c;
+  }
+
+  .header-discord1 a {
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 100%;
+    margin: 10px 0px 0px;
+    text-align: center;
+    font-weight: 400;
+    background: #000;
+  }
+
+  .header-discord1 a:hover {
+    transform: scale(1);
+    background: #55595c;
+  }
+
+  .responsive-menu {
+    width: 30px;
+    background: #000;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 50%;
+    height: 30px;
+    line-height: 30px;
+    padding: 0px;
+  }
+
+  .header-menu {
+    margin-bottom: 8px;
+  }
+
+  header.sticky {
+    margin-top: 0px;
+    position: relative;
+  }
+
+  .banner-text h1 {
+    font-size: 15px;
+  }
+
+  .banner-text h5 {
+    padding: 0px 30px;
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .banner-butt a {
+    margin: 10px 15px;
+  }
+
+  .banner-butt {
+    margin: 40px 0px 0px;
+  }
+
+  .container {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .live-text {
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .arrow-div {
+    display: none;
+  }
+
+  .easy-follow-main-div {
+    width: 100%;
+    margin: 25px 0px;
+  }
+
+  .home-text-inner2 h2 {
+    font-size: 30px;
+  }
+
+  .timer-main {
+    margin: 0px 0px 25px;
+  }
+
+  .question-text {
+    margin: 50px 0px 0px;
+  }
+
+  .footer-2 {
+    margin: 25px 0px;
+  }
+
+  .header-menu nav ul li a {
+    background: #0c0c0c;
+  }
+
+  .banner-text h2 {
+    font-size: 15px;
+  }
+
+  .home-text img {
+    display: none;
+  }
+
+  #live-chat-div img {
+    display: none;
+  }
+
+  .home-text-new img {
+    display: none;
+  }
+
+  .question-section img {
+    display: none;
+  }
+
+  #live-chat-div {
+    padding: 10px 0px 25px;
+  }
+
+  .home-text-inner2 {
+    margin: 10px 0px 20px;
+  }
+
+  .home-text-inner1 {
+    margin: 25px 0px 20px;
+  }
+
+  .ac-title {
+    font-size: 17px;
+  }
+
+  .ac-content p {
+    font-size: 15px;
+    line-height: 27px;
+  }
+
+  .question-text h1 {
+    font-size: 38px;
+    line-height: 47px;
+  }
+
+  .question-text p {
+    font-size: 17px;
+  }
+
+  .review-star {
+    display: none;
+  }
+
+  .review-text {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .review-logo img {
+    float: none;
+  }
+
+  .join-div h2 {
+    width: 100%;
+  }
+
+  .desire-left {
+    width: 100%;
+  }
+
+  .desire-left:last-child {
+    margin-left: 0%;
+    margin-top: 55px;
+  }
+
+  .desire-order-top ul {
+    margin: 15px 0px 0px 20px;
+  }
+
+  .chkbox-desire label {
+    font-size: 13px;
+  }
+
+  .question-text {
+    width: 100%;
+  }
+
+  .form-bossting form {
+    width: 100%;
+  }
+
+  .desire-order-main {
+    width: 100%;
+    margin: 20px 0px 0px;
+    padding: 20px 0px 0px 0px;
+    border-top: 1px solid #d4d4d4;
+    border-left: none;
+  }
+
+  .not-found-text h1 {
+    font-size: 120px;
+  }
+
+  .not-found-text {
+    width: 100%;
+    margin: 100px 0px 0px;
+  }
+}
+
+.sizecheckbox {
+  width: 30px;
+  height: 30px;
+}
